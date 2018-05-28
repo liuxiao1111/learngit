@@ -7,4 +7,4 @@ Git is free software distributed under the GPL.
 hahahaah
 tututu
 xiaoxiao
-creating a new branch is quick & simple
+creating a newbranch is quick and simple
